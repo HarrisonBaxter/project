@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Labs.unity
+- path: Assets/LincolnAccomodation.unity
   isLoaded: 1
   isActive: 1
