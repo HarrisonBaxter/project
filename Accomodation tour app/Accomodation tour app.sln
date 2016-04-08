@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accomodation tour app.CSharp", "Accomodation tour app.CSharp.csproj", "{A391BCB8-CA76-88F8-85EE-3E4DC9281AD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accomodation tour app.CSharp.Editor", "Accomodation tour app.CSharp.Editor.csproj", "{E7212AEE-4FEA-8232-2C17-31F27CD5773A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A391BCB8-CA76-88F8-85EE-3E4DC9281AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A391BCB8-CA76-88F8-85EE-3E4DC9281AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A391BCB8-CA76-88F8-85EE-3E4DC9281AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A391BCB8-CA76-88F8-85EE-3E4DC9281AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7212AEE-4FEA-8232-2C17-31F27CD5773A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7212AEE-4FEA-8232-2C17-31F27CD5773A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7212AEE-4FEA-8232-2C17-31F27CD5773A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7212AEE-4FEA-8232-2C17-31F27CD5773A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
